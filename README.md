@@ -11,5 +11,3 @@ var textbox= document.querySelector('#main > footer > div._3pkkz > div._1Plpp > 
 textbox.textContent = "whats app hacked";
 textbox.dispatchEvent(event);
 document.querySelector("#main > footer > div._3pkkz > div > button > span").click();}
-
-```
